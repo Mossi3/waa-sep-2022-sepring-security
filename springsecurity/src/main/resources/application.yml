@@ -4,8 +4,8 @@ spring:
 
   datasource:
     username: postgres
-    password: 123456
-    url: jdbc:postgresql://localhost:5432/spring-security1
+    password: Moss#6683
+    url: jdbc:postgresql://localhost:5432/security
 
   jpa:
     hibernate:
